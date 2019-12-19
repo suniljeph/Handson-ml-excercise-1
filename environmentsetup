@@ -1,0 +1,3 @@
+cd $ML_PATH
+source env/bin/activate
+jupyter notebook
